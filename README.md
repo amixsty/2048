@@ -1,3 +1,3 @@
 # 2048
 
-<img width="284" alt="amixsty" src="https://user-images.githubusercontent.com/22883222/167837326-29c0766c-44d5-43f4-a36f-cfa5257fde83.png">
+![2048](https://user-images.githubusercontent.com/22883222/168013192-22d35c23-cae1-4a99-b600-1b399f6d0240.png)
